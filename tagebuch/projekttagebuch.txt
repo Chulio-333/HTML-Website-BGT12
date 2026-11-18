@@ -1,0 +1,8 @@
+tag 1. 
+- julian  : richtet das github projekt ein und fügt felix zum projekt hinzu 
+- felix.g : startet die grund züge der html und der css 
+jonathan  : -----
+tag2.
+- julian  : macht eine grid vorlage 
+- felix   : startet das tagebuch und den bilder folder 
+- jonathan: kein zugriff auf daten... 
