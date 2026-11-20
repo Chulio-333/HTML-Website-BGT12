@@ -44,3 +44,16 @@ footer{
 body{
 	background-image: url()
 }
+
+.container_titel{
+	display: grid;
+	height: 100vh;
+	width: 80vw;
+	grid-template-rows: 20% 60% 20%;
+	grid-template-columns: 20% 70% 10%;
+	justify-self: center;
+	grid-template-areas:
+		"logo header navi"
+		"content content content"
+		"footer footer footer"
+		}
