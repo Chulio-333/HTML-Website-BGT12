@@ -6,3 +6,7 @@ tag2.
 - julian  : macht eine grid vorlage 
 - felix   : startet das tagebuch und den bilder folder 
 - jonathan: kein zugriff auf daten... 
+Tag3.
+-julian   :Erstellen von Grid
+-felix    :
+-jonathan :erstellen der Quellenwebsite
