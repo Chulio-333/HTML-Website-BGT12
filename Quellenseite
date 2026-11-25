@@ -12,7 +12,8 @@
 </head>
 <body>
 	<a href="Neues Textdokument.html"><img src="bilder/logo.PNG" alt="Logo" style="height: 20vh;border: 10px solid #3B2121;" /></a>
-  <h1>Quellenseite</h1>
+  	<div style="display: grid;">
+		<div style="justify-self: center;"><h1>Quellenseite</h1></div>
 	<a href="Neues Textdokument.html" >Zurueck Zur Galerie </a><!--zurück zur Main website-->
 	<table border="1">
 		<thead>
@@ -59,7 +60,7 @@
 			</tr>
 		</tbody>
 	</table>
-
+	</div>
 </body>
 </html>
  
