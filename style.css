@@ -1,8 +1,6 @@
 body {
-	background-color: white;
-	display: grid;
-	justify-self: center;
-	gap: 0px;
+	background-image: url("../bilder/background.jpeg"); 
+	background-size:190px
 }
 h2 {
 	font-family: arial;
@@ -12,8 +10,11 @@ h2 {
 }
 .container_usual{
 	display: grid;
+	column-gap: 10px;
+	gap:10px;
 	height: 100vh;
 	width: 80vw;
+	border: 1px solid black;
 	grid-template-rows: 20% 60% 20%;
 	grid-template-columns: 20% 65% 15%;
 	justify-self: center;
@@ -25,32 +26,32 @@ h2 {
 
 .logo{
 	grid-area: logo;
-	background-color:blue;
+	background-color:white;
 }
 
 header{
 	grid-area: header;
-	background-color: pink
-}
+	background-color: white
+} 
 
 .navi{
 	grid-area: navi;
-	background-color: green;
+	background-color: white;
 }
 
 .quick{
 	grid-area: quick;
-	background-color: yellow;
+	background-color: white;
 }
 
 .content{
 	grid-area: content;
-	background-color: red;
+	background-color: white;
 }
 
 footer{
 	grid-area: footer;
-	background-color: black;
+	background-color: white;
 }
 .container_titel{
 	display: grid;
