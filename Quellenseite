@@ -1,5 +1,6 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
   <meta charset=`"utf-8">
 	<meta name="author" content="felix.goeen,julian.coop,jonathan.klingberg">
@@ -10,12 +11,55 @@
 
 </head>
 <body>
-  Moin
-  <h1>Hallo</h1>
-	<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDcOUEzlPVfbbTJuNOmKIHK6ALl6MnvsblvDdxQCF8BjHCHYq5jB9fu9TLLF0x-Y3Xiy3dSBdcsQzOfesDvjRvQll7BSiugWqzeGLRmHR-8w&s=10" target="blank">Bild 1.4</a>
-	<!--so sollen immer die quellen für die bilder verlinkt sein-->
-	<a href="Neues Textdokument.html" >Zurück Zur Galerie </a><!--zurück zur Main website-->
-
+	<a href="Neues Textdokument.html"><img src="bilder/logo.PNG" alt="Logo" style="height: 20vh;border: 10px solid #3B2121;" /></a>
+  <h1>Quellenseite</h1>
+	<a href="Neues Textdokument.html" >Zurueck Zur Galerie </a><!--zurück zur Main website-->
+	<table border="1">
+		<thead>
+			<tr>
+				<th>Beschreibung</th>
+				<th>Author</th>
+				<th>Link zur Quelle</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Hunde wau wau</td>
+				<td>kp </td>
+				<td><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDcOUEzlPVfbbTJuNOmKIHK6ALl6MnvsblvDdxQCF8BjHCHYq5jB9fu9TLLF0x-Y3Xiy3dSBdcsQzOfesDvjRvQll7BSiugWqzeGLRmHR-8w&s=10" target="blank">Bild 1.4 hund</a></td>
+			</tr>
+			<tr>
+				<td>Hasenmensch 3</td><!-- Bei eigenen Bildern halt ohne Link einfach-->
+				<td>Julian</td>
+			</tr>			
+			<tr>
+				<td>Kirbymug</td>
+				<td>Felix</td>
+				<td>Nix hier</td>
+			</tr>			
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>			
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>			
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>			
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>			
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
 
 </body>
 </html>
+ 
