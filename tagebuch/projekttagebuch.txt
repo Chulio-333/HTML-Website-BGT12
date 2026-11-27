@@ -10,3 +10,8 @@ Tag3.
 -julian   :Erstellen von Grid
 -felix    :
 -jonathan :erstellen der Quellenwebsite
+
+Freiag
+-Julian    :
+-Felix     :
+-Jonathan  : Anpassen von css und quellenseite
