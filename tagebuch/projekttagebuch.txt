@@ -12,6 +12,6 @@ Tag3.
 -jonathan :erstellen der Quellenwebsite
 
 Freiag
--Julian    :
+-Julian    :grid optimiert, css verbessert (größen, overflow), actual content :O, erste galarie seite!
 -Felix     :
 -Jonathan  : Anpassen von css und quellenseite
