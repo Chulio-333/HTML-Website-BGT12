@@ -2,6 +2,11 @@ body {
 	background-image: url("../bilder/background.jpeg"); 
 	background-size:190px
 }
+h1{
+	justify-self: center;
+	font-family: arial;
+	font-size: 50;
+}
 h2 {
 	font-family: arial;
 	font-size: 7;
@@ -15,8 +20,8 @@ h2 {
 	height: 100vh;
 	width: 80vw;
 	border: 1px solid black;
-	grid-template-rows: 20% 60% 20%;
-	grid-template-columns: 20% 65% 15%;
+	grid-template-rows: 20% 70% 10%;
+	grid-template-columns: 20% 60% 20%;
 	justify-self: center;
 	grid-template-areas:
 		"logo header navi"
@@ -47,6 +52,7 @@ header{
 .content{
 	grid-area: content;
 	background-color: white;
+	overflow-x: hidden;
 }
 
 footer{
@@ -57,21 +63,11 @@ footer{
 	display: grid;
 	height: 100vh;
 	width: 80vw;
-	grid-template-rows: 20% 60% 20%;
-	grid-template-columns: 20% 70% 10%;
+	grid-template-rows: 20% 70% 10%;
+	grid-template-columns: 20% 60% 20%;
 	justify-self: center;
 	grid-template-areas:
 		"logo header navi"
 		"content content content"
 		"footer footer footer"
 		}
-table{
-	background-color: white;
-}
-.hq{
-	text-align: center;
-	text-decoration: underline;
-	color: white;
-	font-size: 600%;
-	background-color: black;
-}
