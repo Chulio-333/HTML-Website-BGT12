@@ -8,10 +8,10 @@ tag2.
 - jonathan: kein zugriff auf daten... 
 Tag3.
 -julian   :Erstellen von Grid
--felix    :
+-felix    :ladet bilder hoch und und macht die links dazu und zur Verlinkung der seiten 
 -jonathan :erstellen der Quellenwebsite
 
 Freiag
 -Julian    :grid optimiert, css verbessert (größen, overflow), actual content :O, erste galarie seite!
--Felix     :
+-Felix     :erstellt die titel seite macht den projekt tage buch und img ref page
 -Jonathan  : Anpassen von css und quellenseite
