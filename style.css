@@ -68,3 +68,10 @@ footer{
 table{
 	background-color: white;
 }
+.hq{
+	text-align: center;
+	text-decoration: underline;
+	color: white;
+	font-size: 600%;
+	background-color: black;
+}
